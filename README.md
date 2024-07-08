@@ -1,6 +1,6 @@
 # Aight
 
-Time To rev it up!
-Gotta gitgud to clear bloody palace with nero
+Welcome to my github page
+Feel free to explore my repositories
 
 ![](https://github.com/Zkavolo/Zkavolo/blob/main/nero_rev.gif)
